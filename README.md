@@ -2,7 +2,7 @@
 ROS2 simple examples for student
 
 Can be used in each package.
-Download in ros2_ws/src folder. And command below:
+Download in ros2_ws/src folder. And command below to move the package folders in places:
 
 mv ex_ros/* . && rm -drf ex_ros
 
